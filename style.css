@@ -1,0 +1,81 @@
+.navbar a{
+    color: white !important;
+}
+.navbar li :hover{
+color: #125D98 !important;
+}
+.carouselSt{
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.aTitle{
+    color: #548CFF
+}
+.Aicon i{
+    font-size: 40px;
+    color: #548CFF;
+}
+.num{
+    margin-left: 10%;
+}
+span{
+    font-size: 40px;
+    color: #548CFF;
+}
+.service{
+text-align: center;
+}
+.serv1{
+    color: #548CFF !important;
+    font-size: 15px !important;
+    border-radius: 50px !important;
+    background-color: #E8F6EF ;
+}
+.blocks i{
+    color: #548CFF !important;
+    margin-right: 10% !important;
+    font-size: 35px;
+}
+.blocks div{
+    margin-top: 5%;
+}
+.call{
+    background-image: url("img/incorportation-of-company-in-india.jpeg");
+    background-color: rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    height: 80vh;
+    background-blend-mode: multiply;
+    color: white;
+}
+.card-group .card img{
+    width: 150px;
+    height: 150px;
+    margin:auto;
+
+}
+.card-group .card i{
+    color: #548CFF !important;
+    margin-right: 5px;
+}
+.contact i{
+    color: #548CFF !important;
+    font-size: 60px;
+}
+#contact{
+    background-color: #DDDDDD;
+}
+.Rcontact{
+    margin-top: 25% !important;
+}
+.ff{
+    color: white;
+}
+.form-control{
+    width: 15%;
+    height: 30%;
+}
+.search{
+    height: 30%;
+}
